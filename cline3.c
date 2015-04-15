@@ -1,4 +1,5 @@
 // CISP360
+//
 cline()
 {int i,j,x;char c;
 scanf("%c",&c);scanf("%d,%d",&i,%j);
