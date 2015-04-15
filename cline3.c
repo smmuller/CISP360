@@ -1,4 +1,4 @@
-// CISP360
+// CISP 360
 //
 cline()
 {int i,j,x;char c;
